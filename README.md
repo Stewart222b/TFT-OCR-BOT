@@ -1,12 +1,12 @@
 ![main](https://i.imgur.com/roX0N3C.png)
 
-## NOTES:
+## 注意事项:
 - Make sure you don't have any overlays on (Blitz, Mobalytics, etc.).
 - League & client must be in English.
 - 16:9 resolution borderless windowed is required in League, the game must also be on the main monitor (Use 1920x1080 for best results).
 - If the program crashes, create an issue with the error.
 
-## INSTALLATION:
+## 安装:
 1. Install Python 3.11.4 from https://www.python.org/downloads/windows/
    - Note that Python 3.11.4 cannot be used on Windows 7 or earlier.
 2. Clone the repository or download it from here https://github.com/jfd02/TFT-OCR-BOT/archive/refs/heads/main.zip
